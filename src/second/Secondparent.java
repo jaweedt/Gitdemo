@@ -13,7 +13,7 @@ public class Secondparent extends parentclass {
 		int b = sp.a;
 		System.out.println("this is second");
 		System.out.println("this is the third line");
-		
+		System.out.println("fourth line");
 	}
 
 }
