@@ -12,6 +12,7 @@ public class Secondparent extends parentclass {
 		sp.getData();
 		int b = sp.a;
 		System.out.println("this is second");
+		System.out.println("this is the third line");
 		
 	}
 

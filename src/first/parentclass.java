@@ -9,6 +9,7 @@ public class parentclass {
 		
 		System.out.println("This is the parent class method");
 		System.out.println("wow");
+		System.out.println("wah ");
 	}
 }
 
