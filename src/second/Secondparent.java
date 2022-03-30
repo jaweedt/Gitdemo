@@ -11,6 +11,7 @@ public class Secondparent extends parentclass {
 		parentclass pc = new parentclass();
 		sp.getData();
 		int b = sp.a;
+		System.out.println(this is second);
 		
 	}
 
